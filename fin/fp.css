@@ -1,7 +1,8 @@
 #canv {
+	position : absolute;
 	border : 2px solid black;
 	background-color : #777799;
-	
+	top : 50px;
 }
 #backg {
 	position : absolute; 
